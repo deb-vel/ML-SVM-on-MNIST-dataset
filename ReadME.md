@@ -12,7 +12,6 @@ Download and double click them to execute code
 *	run_svm_all_kernels.cmd : this runs svm_all_kernels.py
 *	run_svm_one_kernel.cmd : this runs svm_one_kernel.py
 
-
 ## Requirements: 
 * numpy
 * timeit
@@ -21,3 +20,7 @@ Download and double click them to execute code
 * seaborn
 * sklearn.  
 Furthermore, when an image is successfully display in its window, the window should be closed for the program to continue running.
+
+## PDF files:
+* ML assignment specification:  conatins the project's objectives
+* Documentation (Deborah Vella): contains the report on the project
