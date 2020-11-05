@@ -21,5 +21,5 @@ Download and double click them to execute code
 Furthermore, when an image is successfully display in its window, the window should be closed for the program to continue running.
 
 ## PDF files:
-* ML assignment specification:  conatins the project's objectives
-* Documentation (Deborah Vella): contains the report on the project
+* ML assignment specification.pdf :  conatins the project's objectives
+* Documentation (Deborah Vella).pdf : contains the report on the project
