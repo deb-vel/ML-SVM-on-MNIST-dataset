@@ -4,7 +4,6 @@
 
 ## Datasets (csv files): 
 * trainingSet.csv : contains 12,100 training examples
-* mnist_train.csv : contains 60,000 training examples
 * mnist_test.csv : contains the test set
 
 ## CMD files:
