@@ -1,15 +1,15 @@
 ## Python files:
-•	svm_all_kernels.py : this python file runs all the parameter variations discussed in the report by the use of nested loops.
-•	svm_one_kernel.py : contains the same SVM implementation of the above file, but lets the user choose his own desired kernel, gamma and C value.
+*	svm_all_kernels.py : this python file runs all the parameter variations discussed in the report by the use of nested loops.
+*	svm_one_kernel.py : contains the same SVM implementation of the above file, but lets the user choose his own desired kernel, gamma and C value.
 
 
 ## CMD files:
 Download and double click them to execute code
-•	run_svm_all_kernels.cmd : this runs svm_all_kernels.py
-•	run_svm_one_kernel.cmd : this runs svm_one_kernel.py
+*	run_svm_all_kernels.cmd : this runs svm_all_kernels.py
+*	run_svm_one_kernel.cmd : this runs svm_one_kernel.py
 
 
-Requirements: 
+## Requirements: 
 * numpy
 * timeit
 * pandas
